@@ -1,0 +1,6 @@
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\bin\Debug\DofusThemeUpdater.exe.config
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\bin\Debug\DofusThemeUpdater.exe
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\bin\Debug\DofusThemeUpdater.pdb
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\obj\Debug\DofusThemeUpdater.csprojAssemblyReference.cache
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\obj\Debug\DofusThemeUpdater.exe
+J:\VisualStudio2019\Csharp\DofusThemeCompatibility\DofusThemeCompatibility\obj\Debug\DofusThemeUpdater.pdb
